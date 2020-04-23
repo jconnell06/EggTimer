@@ -1,16 +1,11 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # Egg Timer
+This app was created as a part of a [Udemy course](https://www.udemy.com/share/101WsWAEMScldUQn8F/) I am taking (April 2020). 
 
-## Our Goal
+The goal was to create an app in which the user could select a desired type of boiled egg (Soft, Medium, or Hard), and an automatic timer would start with the ideal cook time. 
 
-This module will be a mix of tutorials and challenges. Most importantly, we want you to get comfortable with looking up how to do something you've never done before. In certain places of this module, you’ll need to follow the 5 step process you learnt in the Xylophone module and use Google search, StackOverflow and Apple Documentation to make your code do what you want it to. But there are also other parts where we’ll take you step-by-step through new Swift programming concepts. 
+I added a "Stop" button which would allow the user to stop the timer (perhaps the user decided they wanted a soft-boiled egg instead of a hard-boiled egg).
 
-## What You'll Make
-
-You’ll be building a beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
-
-## What you will learn
+## Lesson Objectives
 
 * Swift Collection types - Dictionaries
 * The Swift Timer API
@@ -19,9 +14,6 @@ You’ll be building a beautiful egg timer app to boil your eggs to perfection d
 * Functions with outputs
 * How to use the ProgressView
 
-
-
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](Documentation/readme-end-banner.png)
 
